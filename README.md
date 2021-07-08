@@ -29,7 +29,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/html-css-and-bem-am1Cy4EVQ)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-single-price-grid-component-using-flexbox-pLoSwaBin)
 - Live Site URL: [GitHub Pages](https://bouhraoua-yacine.github.io/single-price-grid-component/)
 
 ## My process
